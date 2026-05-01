@@ -1,0 +1,5 @@
+spacy>=3.5
+transformers>=4.30
+pandas
+numpy
+pytest
